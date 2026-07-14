@@ -147,11 +147,14 @@ ul {
 footer {
     text-align: center;
     padding: 15px;
-    background-color: #f5e9d8;
+    
     font-weight: bold;
-    border-top: 1px solid #ccc;
+    
 }
-
+footer p{
+    margin: 0;
+    text-align: center;
+}
 
 @media (max-width: 700px) {
     .two-column,
